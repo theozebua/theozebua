@@ -17,6 +17,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=theozebua&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
+## Holopin Badges
+[![An image of @theozebua's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theozebua)](https://holopin.io/@theozebua)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
